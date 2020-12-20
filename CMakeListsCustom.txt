@@ -13,7 +13,7 @@
 set(CUSTOM_PLUGIN_SRC_DIR
 #	private_plugins/foo
 # or
-#	plugins/epan/foo
+ 	plugins/epan/ouroboros
 )
 
 # Do not fail CMake stage if any of the optional plugins are missing from source tree

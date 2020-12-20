@@ -27,6 +27,8 @@
 
 #include "wireshark_application.h"
 
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
+
 extern "C" {
 
 // Page element callbacks
